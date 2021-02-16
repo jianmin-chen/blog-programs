@@ -1,2 +1,2 @@
 # blog-programs
-Source code of the programs that I provide in my blog.
+Source code for the programs that I provide in my blog.
